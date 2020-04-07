@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExemploRecalcularValor</string>
+
+    <string name="rb_02">Pack c/ 02</string>
+    <string name="rb_04">Pack c/ 04</string>
+    <string name="rb_06">Pack c/ 06</string>
+    <string name="rb_12">Pack c/ 12</string>
+
+    <string name="txt_label_de">De</string>
+    <string name="txt_label_por">Por</string>
+    <string name="txt_label_unitario">Unitário</string>
+
+    <string name="txt_valor_inicial">0</string>
+</resources>
